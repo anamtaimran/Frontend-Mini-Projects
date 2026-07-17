@@ -1,2 +1,2 @@
-# Frontend-Mini-Projects
-A collection of beginner-friendly frontend projects built with HTML, CSS, and JavaScript to strengthen core web development skills.
+# 🎨 Frontend Mini Projects
+This repository is a collection of beginner-friendly frontend projects built while learning HTML, CSS, and JavaScript. Each project focuses on strengthening core web development concepts such as DOM manipulation, event handling, responsive design, and interactive user interfaces. These projects reflect my learning journey and progression as I continue building larger and more advanced frontend applications.
